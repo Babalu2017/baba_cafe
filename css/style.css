@@ -11,3 +11,58 @@ body {
   border-bottom: orange 3px solid;
   opacity: 0.8;
 }
+
+/* home section */
+#home-section {
+    background: url(../img/home/op_baba_cafe.jpg) no-repeat center center fixed;
+    min-height: 700px;
+    position: relative;
+    text-align: center;
+  }
+  
+  #home-section-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  #coffees-section {
+    background: url(../img/coffee_beans.jpg) no-repeat center center fixed;
+    min-height: 700px;
+    position: relative;
+    text-align: center;
+  }
+  
+  #coffees-content-section {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  #home-section .dark-overlay {
+    position: absolute;
+    top: 0; 
+    left: 0;
+    width: 100%; 
+    min-height: 700px;
+    background: rgba(0,0,0,0.2);
+  }
+  
+  #coffees-section .dark-overlay {
+    position: absolute;
+    top: 0; 
+    left: 0;
+    width: 100%; 
+    min-height: 700px;
+    background: rgba(0,0,0,0.3);
+  }
+  
+  #opening-time {
+    background-color: #f9f4e8 !important;
+  }
+  
+  #coffee-cards {
+    background-color: #f9f4e8 !important;
+  }
