@@ -36,6 +36,71 @@
           </div>
         </div>
       </nav>
+      <header id="home-section">
+        <div class="dark-overlay">
+          <div id="home-section-content">
+            <h1 class="display-4" style="color: orange;">
+              Welcome to Baba Cafe
+            </h1>
+          </div>
+        </div>
+      </header>
+      <!-- about us -->
+      <section id="explore-head-section">
+        <div class="container">
+          <div class="row">
+            <div class="col text-center py-5">
+              <h2 style="color: orange;">
+                Established in 2020
+              </h2>
+              <p>Since the doors of our store in Depford first opened in 2020 coffee has dominated the shop
+                atmosphere.</p>
+              <p>Today two years later Baba Cafe' has evolved into the local best known and leading suppliers of coffee.</p>
+              <p>Offering a great variety of coffee, the list continue to grow as we continue to source speciality
+                of coffee from small corners of the world.</p>
+              <button class="btn btn-outline-warning" data-toggle="modal" data-target="#contactModal">
+                CONTACT US
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+      <!-- about us / modal pop up -->
+      <div class="modal fade text-dark" id="contactModal">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title">CONTACT US</h5>
+              <button class="close" data-dismiss="modal">
+                <span>&times;</span>
+              </button>
+            </div>
+    
+            <div class="modal-body">
+              <form class="was-validated" action="https://formdump.codeinstitute.net" target="_blank" method="post">
+                <div class="form-group">
+                  <label for="name">Name</label>
+                  <input type="text" name="name" class="form-control" required/>
+                </div>
+                <div class="form-group">
+                  <label for="email">Email</label>
+                  <input type="email" name="email" class="form-control" required/>
+                </div>
+                <div class="form-group">
+                  <label for="message">Message</label>
+                  <textarea class="form-control" name="message" required></textarea>
+                </div>
+                <div class="modal-footer">
+                  <button type="submit" value="SUBMIT" class="btn btn-warning btn-block">Submit</button>
+                </div>
+              </form>
+            </div>
+            <!-- <div class="modal-footer">
+              <button type="submit" value="SUBMIT" class="btn btn-warning btn-block">Submit</button>
+            </div> -->
+          </div>
+        </div>
+      </div>
   
     <script src="http://code.jquery.com/jquery-3.3.1.min.js"
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
