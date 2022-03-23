@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+/* all pages */
+
+body {
+  background: #333;
+  color: #f9f4e8 !important;
+  font-family: 'Righteous', cursive, sans-serif !important;
+}
+.navbar {
+  border-bottom: orange 3px solid;
+  opacity: 0.8;
+}
