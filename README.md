@@ -15,14 +15,12 @@ If you want to know about the best electric boards, events, meet other eskaters,
 
     -   #### First Time Visitor Goals
 
-        1. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content. [Navigation](assets/images/ux_screenshoots/optimazed_navigation.jpg)
-
-        2. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. [Testimonials](assets/images/ux_screenshoots/optimazed_testimonials.jpg)
+        - As a First Time Visitor, I want to be able to easily navigate throughout the site to find content. [Navigation](assets/images/ux_screenshoots/optimazed_navigation.jpg)
 
     -   #### Returning Visitor Goals
 
 
-        1. As a Returning Visitor, I want to find the best way to get in contact with baba cafe. [Connect with people](assets/images/ux_screenshoots/optimazed_connect_with_people.jpg)
+        - As a Returning Visitor, I want to find the best way to get in contact with baba cafe. [Connect with people](assets/images/ux_screenshoots/optimazed_connect_with_people.jpg)
         
 
     -   #### Frequent User Goals
