@@ -110,7 +110,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--   No bugs known at this stage.
+-   No bugs known so far.
 
 
 ## Deployment
