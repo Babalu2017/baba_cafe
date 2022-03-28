@@ -19,7 +19,7 @@ If you want to know where to get the best coffee in south East London that's the
     -   #### Returning Visitor Goals
 
 
-        - As a Returning Visitor, I want to find the best way to get in contact with baba cafe. [Contact Us](img/tester_stories_screenshots/form.jpg)
+        - As a Returning Visitor, I want to find the best way to get in contact with baba cafe. [Contact Us](img/tester_stories_screenshots/popup_contact_form.jpg) [Popup](img/tester_stories_screenshots/popup_form.jpg)
         
 
     -   #### Frequent User Goals
@@ -88,7 +88,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
     2. As a First Time Visitor, I want to see more content.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly. [view](img/tester_stories_screenshots/what_we_do.jpg)
+        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly. [what we do](img/tester_stories_screenshots/what_we_do.jpg) [external links](img/tester_stories_screenshots/external_links.jpg)
 
 
 ### Further Testing
@@ -156,9 +156,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Code
 
 -   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
-
--   [Video Modal](https://stackoverflow.com/questions/54481655/display-video-in-modal/54481920): jQuery Modal Video Plugin.
-    -   YouTube Embedded Players and Player Parameters [YouTube IFrame Player API](https://developers.google.com/youtube/player_parameters?hl=en)
 
 -   the README.md file structure follow the [codeistitute](https://github.com/Code-Institute-Solutions/SampleREADME/blob/master/README.md) sample.
 
