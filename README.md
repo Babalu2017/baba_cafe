@@ -39,7 +39,7 @@ If you want to know where to get the best coffee in south East London that's the
 
 *   ### Wireframes
 
-    -   Wireframes - [View](img/wireframe/wireframe.jpg)
+    -   Wireframes - [View](img/wireframe/op_wireframes_mobile_web.jpg)
 
 ## Features
 
