@@ -37,18 +37,7 @@ If you want to know about the best electric boards, events, meet other eskaters,
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](assets/png_wireframe/homeWireframe2.png)
-
-    -   Blog Page Wireframe - [View](assets/png_wireframe/blog_meetups_wireframe.png)
-
-    -   Diy and Articles Page Wireframe - [View](assets/png_wireframe/diy_articles_wireframe.png)
-
-    -   Gallery Page Wireframe - [View](assets/png_wireframe/gallery_wireframe.png)
-
-    -   Contact Us Page Wireframe - [View](assets/png_wireframe/contact_wireframe.png)
-
-    -   Mobile and Tablet Wireframe - [View](assets/png_wireframe/smarthphone_tablet_wireframe.png)
-
+    -   Wireframes - [View](img/wireframe/wireframe.jpg)
 
 ## Features
 
@@ -76,15 +65,20 @@ If you want to know about the best electric boards, events, meet other eskaters,
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/Babalu2017/ElectricSkateboardClub)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [adobe Xd:](#)
+1. [adobe Xd:](https://www.adobe.com/uk/products/xd.html)
     - xd was used to create the wireframes during the design process.
 
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://validator.w3.org/)
+-   [W3C Markup Validator](https://validator.w3.org/) 
+1.   [screenshot_homepage] (img/validator_screenshots/index_baba_cafe.png)
+2.   [screenshot_caffees] (img/validator_screenshots/coffees_baba_cafe.png)
+3.   [screenshot_contact] (img/validator_screenshots/cotact_baba_cafe.png)
+
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+1.   [screenshot_css] (img/validator_screenshots/style_css_babacafe.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -110,7 +104,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--   Diy page header and footer are less wide then navbar the bug occur between 1024px and 992px 
+-   No bugs known at this stage.
 
 
 ## Deployment
@@ -119,25 +113,25 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 The project was deployed to GitHub Pages using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Babalu2017/ElectricSkateboardClub)
+1. Log in to GitHub and locate the [GitHub Repository](https://babalu2017.github.io/baba_cafe/)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
     - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com/Babalu2017/ElectricSkateboardClub/settings/pages) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://github.com/Babalu2017/baba_cafe/settings/pages) in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Babalu2017/ElectricSkateboardClub)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Babalu2017/baba_cafe)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
 
 ### Making a Local Clone
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Babalu2017/ElectricSkateboardClub)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/Babalu2017/baba_cafe)
 2. Under the repository name, click "Clone or download".
 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 4. Open Git Bash
@@ -165,13 +159,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
--   Carousel keep going while modals are open. That’s give a bad user experience. I used [Bootstrap_Documentation](https://getbootstrap.com/docs/3.4/javascript/#carousel-pause)
-    -   Once I fixed the previous bug another one came out, Carousel stopped working. I used [Stackoverflow](https://stackoverflow.com/questions/26863003/how-to-reset-the-bootstrap-modal-when-it-gets-closed-and-open-it-fresh-again)
--   Videos and Carousel and SlideShow didn't work on Github pages. the issues were caused by http src inside the script.It was solved by adding the secure protocol. I used Stack Overflow again.
--   On small devices HOME page and DIY the navbar fixed top didn't work. I added html,body selector height:100% and margin:0 to css stylesheet. I used Stackoverflow again
-
--   For the animation hamburger menu' I used [MDBootstrap](https://mdbootstrap.com/docs/standard/extended/hamburger-menu/)
-
 -   [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
 -   [Video Modal](https://stackoverflow.com/questions/54481655/display-video-in-modal/54481920): jQuery Modal Video Plugin.
@@ -187,10 +174,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Media
 
--   All Images were downloaded from [Unsplash](https://unsplash.com/s/photos/electric-skateboard).
+-   All Images were downloaded from [Unsplash](https://unsplash.com/photos/TD4DBagg2wE).
 
 ### Acknowledgements
-
--   My Mentor for continuous helpful feedback.
 
 -   Tutor support at Code Institute for their support.
