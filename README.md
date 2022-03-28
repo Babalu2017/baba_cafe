@@ -5,7 +5,7 @@
 This website has the intent to promote locally our coffee shop.
 If you want to know where to get the best coffee in south East London that's the right place for you.
 
-<h2 align="center"><img src="img/responsive_website/am_I_responsive"></h2>
+<h2 align="center"><img src="img/responsive_website/am_I_responsive.jpg"></h2>
 
 
 ## User Experience (UX)
