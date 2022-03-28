@@ -14,12 +14,15 @@ If you want to know where to get the best coffee in south East London that's the
 
     -   #### First Time Visitor Goals
 
-        - As a First Time Visitor, I want to be able to easily navigate throughout the site to find content. [Navigation](img/tester_stories_screenshots/navigation.jpg)
+        1. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content. 
+            - [Navigation](img/tester_stories_screenshots/navigation.jpg)
 
     -   #### Returning Visitor Goals
 
 
-        - As a Returning Visitor, I want to find the best way to get in contact with baba cafe. [Contact Us](img/tester_stories_screenshots/popup_contact_form.jpg) [Popup](img/tester_stories_screenshots/popup_form.jpg)
+        1. As a Returning Visitor, I want to find the best way to get in contact with baba cafe. 
+            - [Contact Us](img/tester_stories_screenshots/popup_contact_form.jpg) 
+            - [Popup](img/tester_stories_screenshots/popup_form.jpg)
         
 
     -   #### Frequent User Goals
@@ -80,23 +83,30 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation. [Purpose](img/tester_stories_screenshots/about_us.jpg)
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation. 
+        - [Purpose](img/tester_stories_screenshots/about_us.jpg)
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. [view](img/tester_stories_screenshots/navigation.jpg)
+    2. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. 
+        - [view](img/tester_stories_screenshots/navigation.jpg)
 
         
 
-    2. As a First Time Visitor, I want to see more content.
+    3. As a First Time Visitor, I want to see more content.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly. [what we do](img/tester_stories_screenshots/what_we_do.jpg) [external links](img/tester_stories_screenshots/external_links.jpg)
+        - The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly. 
+        - [what we do](img/tester_stories_screenshots/what_we_do.jpg) 
+        - [external links](img/tester_stories_screenshots/external_links.jpg)
 
 
 ### Further Testing
 
--   The Website was tested on Google Chrome [view](img/browsers_test/op_chrome_test.jpg), Microsoft Edge [view](img/browsers_test/op_microsoft_edge_test.jpg) and Safari browsers [view](img/browsers_test/op_safari_test.jpg).
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone6, iPhone7, iPhone 8 & iPhoneX.
--   A large amount of testing was done to ensure that all pages were linking correctly.
--   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+1.   The Website was tested on different browsers: 
+    - [Google Chrome](img/browsers_test/op_chrome_test.jpg) 
+    - [Microsoft Edge](img/browsers_test/op_microsoft_edge_test.jpg)
+    - [Safari](img/browsers_test/op_safari_test.jpg).
+2.   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone6, iPhone7, iPhone 8 & iPhoneX.
+3.   A large amount of testing was done to ensure that all pages were linking correctly.
+4.   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
 
