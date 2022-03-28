@@ -105,7 +105,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     - [Microsoft Edge](img/browsers_test/op_microsoft_edge_test.jpg)
     - [Safari](img/browsers_test/op_safari_test.jpg).
 2.   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone6, iPhone7, iPhone 8 & iPhoneX.
-3.   A large amount of testing was done to ensure that all pages were linking correctly.
+3.   A large amount of testing was done to ensure that all pages were linking correctly [view](img/manual_testing/manual_testing.jpg).
 4.   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
