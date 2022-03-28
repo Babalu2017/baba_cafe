@@ -1,105 +1,108 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
-          integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous" />
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
-          integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous" />
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
-        <link rel="stylesheet" href="css/style.css" />
-        <title>Baba Cafe</title>
-      </head>
-<body>
-    <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top" id="main-nav">
 
-        <div class="container">
-    
-          <a href="index.html" class="navbar-brand display-6 " style="color: orange;">Baba Cafe</a>
-          <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-            <span class="navbar-toggler-icon"></span>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+    integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+    integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="css/style.css" />
+  <title>Baba Cafe</title>
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top" id="main-nav">
+
+    <div class="container">
+
+      <a href="index.html" class="navbar-brand display-6 " style="color: orange;">Baba Cafe</a>
+      <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a href="#" class="nav-link" style="color: orange;">Home</a>
+          </li>
+          <li class="nav-item">
+            <a href="coffees.html" class="nav-link" style="color: orange;">Coffees</a>
+          </li>
+          <li class="nav-item">
+            <a href="contact.html" class="nav-link" style="color: orange;">Contact Us</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <header id="home-section">
+    <div class="dark-overlay">
+      <div id="home-section-content">
+        <h1 class="display-4" style="color: orange;">
+          Welcome to Baba Cafe
+        </h1>
+      </div>
+    </div>
+  </header>
+  <!-- about us -->
+  <section id="explore-head-section">
+    <div class="container">
+      <div class="row">
+        <div class="col text-center py-5">
+          <h2 style="color: orange;">
+            Established in 2020
+          </h2>
+          <p>Since the doors of our store in Depford first opened in 2020 coffee has dominated the shop
+            atmosphere.</p>
+          <p>Today two years later Baba Cafe' has evolved into the local best known and leading suppliers of coffee.</p>
+          <p>Offering a great variety of coffee, the list continue to grow as we continue to source speciality
+            of coffee from small corners of the world.</p>
+          <button class="btn btn-outline-warning" data-toggle="modal" data-target="#contactModal">
+            CONTACT US
           </button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav ml-auto">
-              <li class="nav-item">
-                <a href="#" class="nav-link" style="color: orange;">Home</a>
-              </li>
-              <li class="nav-item">
-                <a href="coffees.html" class="nav-link" style="color: orange;">Coffees</a>
-              </li>
-              <li class="nav-item">
-                <a href="contact.html" class="nav-link" style="color: orange;">Contact Us</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </nav>
-      <header id="home-section">
-        <div class="dark-overlay">
-          <div id="home-section-content">
-            <h1 class="display-4" style="color: orange;">
-              Welcome to Baba Cafe
-            </h1>
-          </div>
-        </div>
-      </header>
-      <!-- about us -->
-      <section id="explore-head-section">
-        <div class="container">
-          <div class="row">
-            <div class="col text-center py-5">
-              <h2 style="color: orange;">
-                Established in 2020
-              </h2>
-              <p>Since the doors of our store in Depford first opened in 2020 coffee has dominated the shop
-                atmosphere.</p>
-              <p>Today two years later Baba Cafe' has evolved into the local best known and leading suppliers of coffee.</p>
-              <p>Offering a great variety of coffee, the list continue to grow as we continue to source speciality
-                of coffee from small corners of the world.</p>
-              <button class="btn btn-outline-warning" data-toggle="modal" data-target="#contactModal">
-                CONTACT US
-              </button>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- about us / modal pop up -->
-      <div class="modal fade text-dark" id="contactModal">
-        <div class="modal-dialog">
-          <div class="modal-content">
-            <div class="modal-header">
-              <h5 class="modal-title">CONTACT US</h5>
-              <button class="close" data-dismiss="modal">
-                <span>&times;</span>
-              </button>
-            </div>
-    
-            <div class="modal-body">
-              <form class="was-validated" action="https://formdump.codeinstitute.net" target="_blank" method="post">
-                <div class="form-group">
-                  <label>Name</label>
-                  <input type="text" name="name" class="form-control" required/>
-                </div>
-                <div class="form-group">
-                  <label>Email</label>
-                  <input type="email" name="email" class="form-control" required/>
-                </div>
-                <div class="form-group">
-                  <label>Message</label>
-                  <textarea class="form-control" name="message" required></textarea>
-                </div>
-                <div class="modal-footer">
-                  <button type="submit" value="SUBMIT" class="btn btn-warning btn-block">Submit</button>
-                </div>
-              </form>
-            </div>
-          </div>
         </div>
       </div>
+    </div>
+  </section>
+  <!-- about us / modal pop up -->
+  <div class="modal fade text-dark" id="contactModal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">CONTACT US</h5>
+          <button class="close" data-dismiss="modal">
+            <span>&times;</span>
+          </button>
+        </div>
 
-      <!-- opening time -->
+        <div class="modal-body">
+          <form class="was-validated" action="https://formdump.codeinstitute.net" id="my_form" target="_blank"
+            method="post">
+            <div class="form-group">
+              <label>Name</label>
+              <input id="nameSub" type="text" name="name" class="form-control" required />
+            </div>
+            <div class="form-group">
+              <label>Email</label>
+              <input id="emailSub" type="email" name="email" class="form-control" required />
+            </div>
+            <div class="form-group">
+              <label>Message</label>
+              <textarea id="textSub" class="form-control" name="message" required></textarea>
+            </div>
+            <div class="modal-footer">
+              <button type="submit" value="SUBMIT" class="btn btn-warning btn-block">Submit</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- opening time -->
   <section id="opening-time" class="bg-light text-muted py-5">
     <div class="container">
       <div class="row">
@@ -190,8 +193,8 @@
       </div>
     </div>
   </footer>
-  
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
     integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
@@ -203,6 +206,15 @@
   <script>
     // Get the current year for the copyright
     $('#year').text(new Date().getFullYear());
+
+    // reset form after submit
+    const form = document.getElementById('my_form');
+    form.addEventListener('submit', function handleSubmit(event) {
+      event.preventDefault();
+      form.submit();
+      form.reset();
+    })
   </script>
 </body>
+
 </html>
