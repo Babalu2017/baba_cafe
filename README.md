@@ -5,7 +5,7 @@
 This website has the intent to promote locally our coffee shop.
 If you want to know where to get the best coffee in south East London that's the right place for you.
 
-<h2 align="center"><img src="assets/png_wireframe/mockup.png"></h2>
+<h2 align="center"><img src="img/responsive_website/am_I_responsive"></h2>
 
 
 ## User Experience (UX)
@@ -19,7 +19,7 @@ If you want to know where to get the best coffee in south East London that's the
     -   #### Returning Visitor Goals
 
 
-        - As a Returning Visitor, I want to find the best way to get in contact with baba cafe. [Connect with people](img/tester_stories_screenshots/form.jpg)
+        - As a Returning Visitor, I want to find the best way to get in contact with baba cafe. [Contact Us](img/tester_stories_screenshots/form.jpg)
         
 
     -   #### Frequent User Goals
@@ -76,7 +76,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 1.  HTML Homepage validator [view](img/validator_screenshots/index_baba_cafe.png)
 2.  HTML Coffee page validator [view](img/validator_screenshots/coffees_baba_cafe.png)
 3.  HTML Contact Us validator [view](img/validator_screenshots/contact_baba_cafe.png)
-4.  CSS  Style_Sheet valifator [view](img/validator_screenshots/style_css_babacafe.png)
+4.  CSS  Style_Sheet validator [view](img/validator_screenshots/style_css_babacafe.png)
 
 -   #### First Time Visitor Goals
 
