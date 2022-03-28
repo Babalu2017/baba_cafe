@@ -1,10 +1,9 @@
-<h1 align="center">ESC-Electric Skatebord Club- London</h1>
+<h1 align="center">Baba Cafe</h1>
 
-[View the live project here.](https://babalu2017.github.io/baba_cafe/ ) 
+[View the live project here.](https://babalu2017.github.io/baba_cafe/) 
 
-This website has the intent to reunite people in London that share the same passion ELECTRIC SKATEBOARDS/LONGBOARDS.
-Our platform has the aim  to promote meetups and rides London.
-If you want to know about the best electric boards, events, meet other eskaters, building your own electric skateboard and more that's the right place for you.
+This website has the intent to promote locally our coffee shop.
+If you want to know where to get the best coffee in south East London that's the right place for you.
 
 <h2 align="center"><img src="assets/png_wireframe/mockup.png"></h2>
 
@@ -15,17 +14,17 @@ If you want to know about the best electric boards, events, meet other eskaters,
 
     -   #### First Time Visitor Goals
 
-        - As a First Time Visitor, I want to be able to easily navigate throughout the site to find content. [Navigation](assets/images/ux_screenshoots/optimazed_navigation.jpg)
+        - As a First Time Visitor, I want to be able to easily navigate throughout the site to find content. [Navigation](img/tester_stories_screenshots/navigation.jpg)
 
     -   #### Returning Visitor Goals
 
 
-        - As a Returning Visitor, I want to find the best way to get in contact with baba cafe. [Connect with people](assets/images/ux_screenshoots/optimazed_connect_with_people.jpg)
+        - As a Returning Visitor, I want to find the best way to get in contact with baba cafe. [Connect with people](img/tester_stories_screenshots/form.jpg)
         
 
     -   #### Frequent User Goals
 
-        1. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation. [Newsletter](assets/images/ux_screenshoots/optimazed_newsletter.jpg)
+        1. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation. [Newsletter](img/tester_stories_screenshots/form.jpg)
 
 -   ### Design
     -   #### Colour Scheme
@@ -65,39 +64,36 @@ If you want to know about the best electric boards, events, meet other eskaters,
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/Babalu2017/ElectricSkateboardClub)
     - GitHub is used to store the projects code after being pushed from Git.
-1. [adobe Xd:](https://www.adobe.com/uk/products/xd.html)
+1. [Adobe Xd:](https://www.adobe.com/uk/products/xd.html)
     - xd was used to create the wireframes during the design process.
+1. [Adobe Photoshop:](https://www.adobe.com/uk/products/photoshop.html)
+    - Photoshop was used to edit photos as well as to make them more web friendly (resizing_save for web legacy option).
 
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://validator.w3.org/) 
-1.   [screenshot_homepage] (img/validator_screenshots/index_baba_cafe.png)
-2.   [screenshot_caffees] (img/validator_screenshots/coffees_baba_cafe.png)
-3.   [screenshot_contact] (img/validator_screenshots/cotact_baba_cafe.png)
-
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
-1.   [screenshot_css] (img/validator_screenshots/style_css_babacafe.png)
-
-### Testing User Stories from User Experience (UX) Section
+1.  HTML Homepage validator [view](img/validator_screenshots/index_baba_cafe.png)
+2.  HTML Coffee page validator [view](img/validator_screenshots/coffees_baba_cafe.png)
+3.  HTML Contact Us validator [view](img/validator_screenshots/contact_baba_cafe.png)
+4.  CSS  Style_Sheet valifator [view](img/validator_screenshots/style_css_babacafe.png)
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation. [Purpose](assets/images/ux_screenshoots/optimazed_purpose2.jpg)
+    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation. [Purpose](img/tester_stories_screenshots/about_us.jpg)
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. [Screenshoot](assets/images/ux_screenshoots/learnhow_joinus_readmore.jpg)
+        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. [view](img/tester_stories_screenshots/navigation.jpg)
 
         
 
-    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+    2. As a First Time Visitor, I want to see more content.
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly. [Navigation](assets/images/ux_screenshoots/optimazed_navigation.jpg)
+        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly. [view](img/tester_stories_screenshots/what_we_do.jpg)
 
 
 ### Further Testing
 
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
+-   The Website was tested on Google Chrome [view](img/browsers_test/op_chrome_test.jpg), Microsoft Edge [view](img/browsers_test/op_microsoft_edge_test.jpg) and Safari browsers [view](img/browsers_test/op_safari_test.jpg).
 -   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone5, iPhone6, iPhone7, iPhone 8 & iPhoneX.
 -   A large amount of testing was done to ensure that all pages were linking correctly.
 -   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
