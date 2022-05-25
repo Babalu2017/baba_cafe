@@ -80,6 +80,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 2.  HTML Coffee page validator [view](img/validator_screenshots/coffees_baba_cafe.png)
 3.  HTML Contact Us validator [view](img/validator_screenshots/contact_baba_cafe.png)
 4.  CSS  Style_Sheet validator [view](img/validator_screenshots/style_css_babacafe.png)
+5.  IMAGES_index.html  a11y.com [view](img/validator_screenshots/op_bcafe_index_test_img.jpg)
+6.  IMAGES_coffees.html  a11y.com [view](img/validator_screenshots/op_bcafe_coffespage_test_img.jpg)
 
 -   #### First Time Visitor Goals
 
