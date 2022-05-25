@@ -74,7 +74,7 @@ If you want to know where to get the best coffee in south East London that's the
 
 ## Testing
 
-The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+The W3C Markup, W3C CSS Validator and a11y.com services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
 1.  HTML Homepage validator [view](img/validator_screenshots/index_baba_cafe.png)
 2.  HTML Coffee page validator [view](img/validator_screenshots/coffees_baba_cafe.png)

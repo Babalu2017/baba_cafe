@@ -69,6 +69,34 @@
     </div>
   </section>
 
+  <!----------------------------------VIDEO SECTION------------------------------------->
+  <section id="video-play">
+      <div class="row">
+        <div class="col text-center">
+          <h1>Brazilian Coffee Plantation Drone Flight</h1>
+          <div class="container py-2">
+            <a href="#" class="video" data-video="https://www.youtube.com/embed/YKT_bsTXR1E" data-toggle="modal"
+              data-target="#videoModal">
+              <i class="fas fa-play fa-3x mt-3 mb-4" style="color: white"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+  </section>
+
+  <!----------------------------------VIDEO MODAL------------------------------------->
+  <div class="modal fade" id="videoModal">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-body">
+          <button class="close" data-dismiss="modal">
+            <span>&times;</span>
+          </button>
+          <iframe src="#" height="350" allowfullscreen style="width: 100%;"></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <!---cards-->
   <section id="coffee-cards" class="bg-light text-muted py-5">
@@ -151,6 +179,21 @@
   <script>
     // Get the current year for the copyright
     $('#year').text(new Date().getFullYear());
+
+    //init VIDEO PLAY with jquary
+    $(function () {
+      $(".video").click(function () {
+        var theModal = $(this).data("target"),
+          videoSRC = $(this).attr("data-video"),
+          videoSRCauto =
+            videoSRC +
+            "?modestbranding=1&rel=0&controls=0&showinfo=0&html5=1&autoplay=1";
+        $(theModal + " iframe").attr("src", videoSRCauto);
+        $(theModal + " button.close").click(function () {
+          $(theModal + " iframe").attr("src", videoSRC);
+        });
+      });
+    });
   </script>
 </body>
 
